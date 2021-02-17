@@ -1,4 +1,4 @@
-package main
+package medianOfTwoSortedArrays
 
 import "fmt"
 
